@@ -3,10 +3,6 @@
     <string name="tview_quiz_name">Are you familiar with CS?</string>
     <string name="title1">Question 1</string>
     <string name="question1">How many the \"1\" symbols are there in the binary representation of the decimal number 514?</string>
-    <string name="question1_ans1">2</string>
-    <string name="question1_ans2">3</string>
-    <string name="question1_ans3">4</string>
-    <string name="question1_ans4">5</string>
     <string name="title2">Question 2</string>
     <string name="question2">Who were the founders of Google?</string>
     <string name="question2_ans1">Larry Page</string>
@@ -19,10 +15,6 @@
     <string name="question3_answer">James Gosling</string>
     <string name="title4">Question 4</string>
     <string name="question4">The formula\n=D$22*$D23\nis located in the Excel spreadsheet at the cell G4.\nNote: the sign `$ is used to denote the absolute addressing.\nWhat will the formula be like after copying to the cell F3?</string>
-    <string name="rbtn_question4_1">=C$22∗$C23</string>
-    <string name="rbtn_question4_2">=D$21∗$D22</string>
-    <string name="rbtn_question4_3">=D$21$C23</string>
-    <string name="rbtn_question4_4">=C$22∗$D22</string>
     <string name="title5">Question 5</string>
     <string name="question5">What is the first OOP language?</string>
     <string name="rbtn_question5_1">Smalltalk</string>
