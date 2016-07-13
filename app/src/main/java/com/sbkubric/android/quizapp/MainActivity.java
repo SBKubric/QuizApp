@@ -67,10 +67,10 @@ public class MainActivity extends AppCompatActivity {
         CheckBox cb2 = (CheckBox) findViewById(R.id.chkbx_question2_ans3);
         if (cb1.isChecked() | cb2.isChecked()) {
             ++boxes_selected;
-          if (cb1.isChecked() && cb2.isChecked()) { //this is the right answer
-              ++score;  //so we adding 1 to the score
-              ++boxes_selected;
-          }
+            if (cb1.isChecked() && cb2.isChecked()) { //this is the right answer
+                ++score;  //so we adding 1 to the score
+                ++boxes_selected;
+            }
         }
 
         CheckBox cb = (CheckBox) findViewById(R.id.chkbx_question2_ans2);
